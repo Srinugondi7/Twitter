@@ -1,6 +1,6 @@
-# Twitter-Python
-#Getting started To collect data you need a Twitter account and a Twitter application.
-   Assuming you already have a Twitter account use the following instructions to create a Twitter application
+# Twitter_Tweepy
+
+   #Getting started To collect data you need a Twitter account and a Twitter application. Assuming you already have a Twitter account use the following instructions to create a Twitter application
 
 ##Twitter application
 
