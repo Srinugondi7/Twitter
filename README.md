@@ -40,6 +40,25 @@
 4. Place the Twitter API credentials in the program code(tweet.py).
 
 
-##After we are going to tweet.py
 
    We will use the tweet.py script to download a user’s recent tweets up to a maximum of 3200 the response will be returned in JSON format and saved as tweet.json file in the same folder you have saved the script.If you are new to Python you run the code from the command line by typing python tweet.py but make sure while you are on CMD window navigate to the same folder(my script is in scraping folder)  where your script is saved.
+   
+   Before running the code you need to edit the code to include the credentials provided by the Twitter App Management interface in the previous step.
+
+
+#Twitter API credentials
+1. consumer_key = "Consumer key goes here"
+2. consumer_secret = "Consumer secret goes here"
+3. access_key = "access key goes here"
+4. access_secret = "access secret goes here"
+
+
+Also, input twitter username you want to download tweets from.
+
+1 if __name__ == '__main__':
+2    #pass in the username of the account you want to download
+3   get_all_tweets("user name goes here")  #Example:@CityofAtlanta
+
+
+
+
