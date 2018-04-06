@@ -10,7 +10,7 @@
 
 3.Enter a name, description, and temporary website (e.g. http://coming-soon.com)
 
-4.Read and accept the terms and conditions – note principally that you agree not to distribute any of the raw tweet data and to delete tweets from your collection if they should be deleted from Twitter in the future.
+4.Read and accept the terms and conditions – note principally that you agree not to distribute any of the raw tweet data and to delete       tweets from your collection if they should be deleted from Twitter in the future.
 
 5.Click "Create your Twitter application"
 
@@ -56,7 +56,9 @@
 Also, input twitter username you want to download tweets from.
 
 1 if __name__ == '__main__':
+
 2    #pass in the username of the account you want to download
+
 3   get_all_tweets("user name goes here")  #Example:@CityofAtlanta
 
 
