@@ -41,4 +41,5 @@
 
 
 ##After we are going to tweet.py
-We will use the tweet.py script to download a user’s recent tweets up to a maximum of 3200 the response will be returned in JSON format and saved as tweet.json file in the same folder you have saved the script.If you are new to Python you run the code from the command line by typing python tweet.py but make sure while you are on CMD window navigate to the same folder(my script is in scraping folder)  where your script is saved.
+
+   We will use the tweet.py script to download a user’s recent tweets up to a maximum of 3200 the response will be returned in JSON format and saved as tweet.json file in the same folder you have saved the script.If you are new to Python you run the code from the command line by typing python tweet.py but make sure while you are on CMD window navigate to the same folder(my script is in scraping folder)  where your script is saved.
