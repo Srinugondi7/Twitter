@@ -5,6 +5,7 @@
 ##Twitter application
 
 1.Open a web browser and go to https://apps.twitter.com/app/new
+
 2.Sign in with your normal Twitter username and password if you are not already signed in.
 3.Enter a name, description, and temporary website (e.g. http://coming-soon.com)
 4.Read and accept the terms and conditions – note principally that you agree not to distribute any of the raw tweet data and to delete tweets from your collection if they should be deleted from Twitter in the future.
