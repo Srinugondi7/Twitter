@@ -37,4 +37,4 @@
     
     #Replace the … with whatever values are shown in your web browser. Be sure to keep the quotation marks.
 
-4. Place the Twitter API credentials in the program code.
+4. Place the Twitter API credentials in the program code(tweet.py).
