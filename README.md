@@ -61,6 +61,19 @@ Also, input twitter username you want to download tweets from.
 
 3   get_all_tweets("user name goes here")  #Example:@CityofAtlanta
 
+# I am using this reference see given below link
+   
+   @https://nocodewebscraping.com/twitter-json-examples/
 
 
+## We are discussing tweet analysis
 
+
+For this article, I have fetched tweets from 01-Jan-2015 to 25-Sep-2017. To get the CSV file of tweets from @CityofAtlanta, the command is:
+
+$ python tweets_analysis CityofAtlanta
+
+
+# I am using this reference see given below link
+
+   @https://dzone.com/articles/applying-nlp-to-tweets-with-python
